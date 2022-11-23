@@ -20,7 +20,8 @@ SET time_zone = "+00:00";
 --
 -- Base de données : `financialmarket`
 --
-
+CREATE DATABASE IF NOT EXISTS financialmarket;
+use financialmarket;
 -- --------------------------------------------------------
 
 --
